@@ -36,7 +36,7 @@ It helps users visualize and manage financial data in a simple way.
 - Supabse for managing database
 
 ## 🔗 Live Project
-(Add your link here)
+https://sea-finance-flow.lovable.app
 
 ## 👨‍💻 Author
 Bidwani Pattanaik
